@@ -24,7 +24,7 @@ It's pre-configured with a set of tools which'll help students produce industry-
 
 ## FAQ
 
-### Tools
+### Toolsblabla
 
 - _Concurrently_ : Allows for several commands to run concurrently in the same CLI
 - _Husky_ : Allows to execute specific commands that trigger on _git_ events
